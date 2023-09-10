@@ -1,0 +1,3 @@
+//khi bị 0 1 3 4 5 các dữ liệu Api chuyền theo dạng Objec không thành chữ 
+      const keyArray = Object.values(DossierID)
+      const result = keyArray.join("")
